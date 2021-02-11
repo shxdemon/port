@@ -20,8 +20,8 @@ title: Malik Kurn                          # the main title
 tagline: A portfolio website   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-	A minimal portfolio-purpose website,
-	Focus on visualitazion data, python, electrical-engineering,
+  A minimal portfolio-purpose website,
+  Focus on visualitazion data, python, electrical-engineering
   and focuses on text.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
