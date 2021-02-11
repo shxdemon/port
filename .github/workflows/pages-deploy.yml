@@ -1,7 +1,7 @@
 name: 'Automatic build'
 on:
   push:
-    branches:
+    branches: 
       - main
     paths-ignore:
       - .gitignore
