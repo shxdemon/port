@@ -19,7 +19,7 @@ title: Malik Kurn                          # the main title
 
 tagline: A portfolio website   # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
+description:                         # used by seo meta and the atom feed
 	A portfolio-purpose website
 	Focus on visualitazion data, python, and electrical-engineering	
 
