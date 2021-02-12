@@ -6,10 +6,7 @@ order: 4
 ---
 
 ##What I Do
-I'm a electrical engineer student. My goal is to create meaningful and limitless visuaitazion design.
-
-I believe great work comes from building great relationship.
-I hope one day we can collaborate with everybody.
+I'm a electrical engineer student. My goal is to create meaningful and limitless visuaitazion design with cutting-edge technology, especially python. I believe great work comes from building great relationship.
 
 ##Who am I
 <b>Malik Kurnia Putra Pratama</b><br>
