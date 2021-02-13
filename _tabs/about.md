@@ -12,7 +12,7 @@ I'm a electrical engineer student. My goal is to create meaningful and limitless
 <b>Malik Kurnia Putra Pratama</b><br>
 <b><i>Student + Data Visualization Enthusiast</i></b>
 
-Used to design infographic and reading data makes me to take new step to telling data. My philosophy is simplicity, factual, and reult in sophisticated works. Seeking inspiration with reading new things and traveling.
+Used to design infographic and reading data makes me to take new step to telling data. My philosophy is simplicity, factual, and result in sophisticated works. Seeking inspiration with reading new things and traveling.
 
 ## Works and Internship Experience
 <b>2014 :</b>
@@ -35,4 +35,5 @@ Weekend Sharing, Web Administrator
 
 ## Educations
 <b>2012 - 2015</b> Major in <b>Teknik Komputer dan Jaringan</b> at <b>SMK N 2 Salatiga</b>
+<br>
 <b>2016 - now</b> Major in <b>Electrical Engineering</b> at <b>Universitas Negeri Yogyakarta</b>
