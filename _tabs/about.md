@@ -32,3 +32,7 @@ LPMT Fenomena UNY, Reporter & Layouter
 <br>
 <b>2020 - now:</b>
 Weekend Sharing, Web Administrator 
+
+## Educations
+<b>2012 - 2015</b> Major in <b>Teknik Komputer dan Jaringan</b> at <b>SMK N 2 Salatiga</b>
+<b>2016 - now</b> Major in <b>Electrical Engineering</b> at <b>Universitas Negeri Yogyakarta</b>
