@@ -12,7 +12,7 @@ I'm a electrical engineer student. My goal is to create meaningful and limitless
 <b>Malik Kurnia Putra Pratama</b><br>
 <b><i>Student + Data Visualization Enthusiast</i></b>
 
-Used to design infographic and reading data makes me to take new step to telling data. My philosophy is simplicity, factual, and reult in sophisticated works. Seeking inspiration with reading new things and traveling with bus.
+Used to design infographic and reading data makes me to take new step to telling data. My philosophy is simplicity, factual, and reult in sophisticated works. Seeking inspiration with reading new things and traveling.
 
 ## Works and Internship Experience
 <b>2014 :</b>
