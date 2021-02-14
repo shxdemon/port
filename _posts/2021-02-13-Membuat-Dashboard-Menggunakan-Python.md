@@ -10,7 +10,7 @@ image:
   src: 
 ---
 
-Learning by doing adalah cara paling efektif dalam mempelajari sesuatu hal. Dalam artikel ini, setidaknya akan saya memberikan guides dalam membuat dashboard visualisasi suatu data menggunakan python. <i>Framework</i> yang dipakai adalah Dash, dan dashboard akan dibuat dengan kontruksi opsi dropdown dan 2 <i>reactive-graph</i>.
+Learning by doing adalah cara paling efektif dalam mempelajari sesuatu hal. Dalam artikel ini, setidaknya akan saya memberikan langkah-langkah dalam membuat dashboard visualisasi suatu data menggunakan python. <i>Framework</i> yang dipakai adalah Dash, dan dashboard akan dibuat dengan kontruksi sebuah opsi <i>dropdown</i> dan 2 <i>reactive-graph</i>.
 
 ![Desktop View](insert-link-here)
 
