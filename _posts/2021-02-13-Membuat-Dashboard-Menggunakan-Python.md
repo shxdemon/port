@@ -13,7 +13,7 @@ image:
 ## Sekapur Sirih
 Learning by doing adalah cara paling efektif dalam mempelajari sesuatu hal. Dalam artikel ini, setidaknya akan saya memberikan langkah-langkah dalam membuat dashboard visualisasi suatu data menggunakan python. <i>Framework</i> yang dipakai adalah Dash, dan dashboard akan dibuat dengan kontruksi sebuah opsi <i>dropdown</i> dan 2 <i>reactive-graph</i>.
 
-![Dashboard](https://images2.imgbox.com/51/3e/Xef6r2n1_o.png){: width="400"}
+![Dashboard](https://images2.imgbox.com/51/3e/Xef6r2n1_o.png){: width="300"}
 _Dashboard_
 
 
