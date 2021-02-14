@@ -7,7 +7,7 @@ tags: [Dash, Python, Plotly]
 math: true
 mermaid: true
 image:
-  src: 
+  src: https://images2.imgbox.com/51/3e/Xef6r2n1_o.png
 ---
 
 ## Sekapur Sirih
