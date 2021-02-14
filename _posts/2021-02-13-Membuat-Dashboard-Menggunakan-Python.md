@@ -10,9 +10,9 @@ image:
   src: 
 ---
 
-# Sekapur Sirih
+## Sekapur Sirih
 Learning by doing adalah cara paling efektif dalam mempelajari sesuatu hal. Dalam artikel ini, setidaknya akan saya memberikan langkah-langkah dalam membuat dashboard visualisasi suatu data menggunakan python. <i>Framework</i> yang dipakai adalah Dash, dan dashboard akan dibuat dengan kontruksi sebuah opsi <i>dropdown</i> dan 2 <i>reactive-graph</i>.
 
-![Desktop View](insert-link-here)
+![Dashboard](https://images2.imgbox.com/51/3e/Xef6r2n1_o.png)
 
 Framework Dash dikembangkan sebagai <i>open-source library</i> oleh Plotly yang dibagun menggunakan Flask, Plotly.js, dan React.js. Sehingga Dash sendiri sangat cocok diimplementasikan di website untuk berbagi visualisasi <i>insight</i> data.
