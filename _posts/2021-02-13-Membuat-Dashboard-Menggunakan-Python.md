@@ -16,3 +16,5 @@ Learning by doing adalah cara paling efektif dalam mempelajari sesuatu hal. Dala
 ![Dashboard](https://images2.imgbox.com/51/3e/Xef6r2n1_o.png)
 
 Framework Dash dikembangkan sebagai <i>open-source library</i> oleh Plotly yang dibagun menggunakan Flask, Plotly.js, dan React.js. Sehingga Dash sendiri sangat cocok diimplementasikan di website untuk berbagi visualisasi <i>insight</i> data.
+
+Jika kalian tertarik dengan interactive-chart dengan Python, <a href="https://www.statworx.com/blog/plotly-an-interactive-charting-library/">Plotly - An Interactive Charting Library</a> adalah tulisan yang menarik untuk dibaca. 
