@@ -21,3 +21,11 @@ Framework Dash dikembangkan sebagai <i>open-source library</i> oleh Plotly yang 
 
 Jika kalian tertarik dengan interactive-chart dengan Python, <a href="https://www.statworx.com/blog/plotly-an-interactive-charting-library/">Plotly - An Interactive Charting Library</a> adalah tulisan yang menarik untuk dibaca. Untuk guide mengenai teknik dasar visualisasi dapat membaca <a href="https://www.statworx.com/blog/basic-rules-for-good-looking-slides-and-dashboards/">Basic rules for good looking slides and dashboards</a>.
 
+Mempunyai skill CSS dan HTML cukup memabntu dalam pembuatan dashboard menggunakan Dash. Untuk yang belum santai saja, saya akan menjelaskan langkah-langkahnya.
+
+---
+## Prerequisite 
+
+---
+
+##
